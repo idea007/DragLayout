@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/ll_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:text="古老师是刚开始写作就认识的朋友，他的经历颇具传奇性，开着公司，还坚持码字。
+
+他老家内蒙古的，学生时代喜欢翘课，在亲戚家的空房读书，直到他的文章被发表，从此他的命运轨迹改变，考上了大学，在广州工作，从普通职员一路晋升到公司老总。
+
+但他始终坚持工作之余写作，是中国最早一代的论坛版主，在网上写作至今，豆瓣上拥有很多粉丝，如今也是简书签约作者。
+
+他说过，写作贵在坚持，养成良好的习惯最重要，他都是每天早晨4点半起床，阅读写字，之后再去工作。
+
+本来想向古老师学习，很惭愧，作为一个拖延症患者，到目前为止，始终没有养成一个良好的写作习惯，经常熬夜，以至早晨起不来。
+
+文／热爱一生（简书作者）
+原文链接：http://www.jianshu.com/p/21a503412e1d
+著作权归作者所有，转载请联系作者获得授权，并标注“简书作者”。"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:text="古老师是刚开始写作就认识的朋友，他的经历颇具传奇性，开着公司，还坚持码字。
+
+他老家内蒙古的，学生时代喜欢翘课，在亲戚家的空房读书，直到他的文章被发表，从此他的命运轨迹改变，考上了大学，在广州工作，从普通职员一路晋升到公司老总。
+
+但他始终坚持工作之余写作，是中国最早一代的论坛版主，在网上写作至今，豆瓣上拥有很多粉丝，如今也是简书签约作者。
+
+他说过，写作贵在坚持，养成良好的习惯最重要，他都是每天早晨4点半起床，阅读写字，之后再去工作。
+
+本来想向古老师学习，很惭愧，作为一个拖延症患者，到目前为止，始终没有养成一个良好的写作习惯，经常熬夜，以至早晨起不来。
+
+文／热爱一生（简书作者）
+原文链接：http://www.jianshu.com/p/21a503412e1d
+著作权归作者所有，转载请联系作者获得授权，并标注“简书作者”。"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:text="古老师是刚开始写作就认识的朋友，他的经历颇具传奇性，开着公司，还坚持码字。
+
+他老家内蒙古的，学生时代喜欢翘课，在亲戚家的空房读书，直到他的文章被发表，从此他的命运轨迹改变，考上了大学，在广州工作，从普通职员一路晋升到公司老总。
+
+但他始终坚持工作之余写作，是中国最早一代的论坛版主，在网上写作至今，豆瓣上拥有很多粉丝，如今也是简书签约作者。
+
+他说过，写作贵在坚持，养成良好的习惯最重要，他都是每天早晨4点半起床，阅读写字，之后再去工作。
+
+本来想向古老师学习，很惭愧，作为一个拖延症患者，到目前为止，始终没有养成一个良好的写作习惯，经常熬夜，以至早晨起不来。
+
+文／热爱一生（简书作者）
+原文链接：http://www.jianshu.com/p/21a503412e1d
+著作权归作者所有，转载请联系作者获得授权，并标注“简书作者”。"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textSize="17sp"
+            android:text="古老师是刚开始写作就认识的朋友，他的经历颇具传奇性，开着公司，还坚持码字。
+
+他老家内蒙古的，学生时代喜欢翘课，在亲戚家的空房读书，直到他的文章被发表，从此他的命运轨迹改变，考上了大学，在广州工作，从普通职员一路晋升到公司老总。
+
+但他始终坚持工作之余写作，是中国最早一代的论坛版主，在网上写作至今，豆瓣上拥有很多粉丝，如今也是简书签约作者。
+
+他说过，写作贵在坚持，养成良好的习惯最重要，他都是每天早晨4点半起床，阅读写字，之后再去工作。
+
+本来想向古老师学习，很惭愧，作为一个拖延症患者，到目前为止，始终没有养成一个良好的写作习惯，经常熬夜，以至早晨起不来。
+
+文／热爱一生（简书作者）
+原文链接：http://www.jianshu.com/p/21a503412e1d
+著作权归作者所有，转载请联系作者获得授权，并标注“简书作者”。"/>
+
+    </LinearLayout>
+</ScrollView>
